@@ -1,5 +1,3 @@
-// Created by 🌲 ASHU 🔥
-
 function $id(x){
     return document.getElementById(x);
 }
